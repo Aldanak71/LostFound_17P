@@ -71,13 +71,13 @@ The server will run on http://localhost:8000, and the client will be available a
 
 ### Team Members
 
-Aldanak Bauyrzhan, 220103309, 17-P
+Bauyrzhan Aldanak, 220103309, 17-P
 
 Aitbai Zhalgas, 22003224, 17-P
 
-Mussabek Aidynbek, 220103108, 17-P
+Mussabek Aidynbek, 220103108, 16-P
 
-Aitzhan Adilet, 220103229, 17-P
+Aitzhan Adilet, 220103229, 20-P
 
 ### screenshots
 ![alt text](image.png)
